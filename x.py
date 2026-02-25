@@ -12,4 +12,3 @@ else:
     print("x is greater than 12")
 
 print("The value of x is:", x)
-
